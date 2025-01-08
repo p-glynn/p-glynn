@@ -1,12 +1,13 @@
 <h3 align='left'>Hey there, I’m Patrick! 👋</h3>
 
-<p>I'm a software engineer from Denver, Colorado, passionate about leveraging technology to solve complex problems and
+<p>I'm a software engineer from Denver, Colorado. I'm passionate about leveraging technology to solve complex problems and
 create meaningful impact.</p>
 
 <p align="left">
   I love building web and native apps that are responsive and user-focused. I have a proven track record of building high-performance applications that drive substantial revenue growth.
-  <br>
-  I'm always on the lookout for opportunities to collaborate and learn.
+</p>
+<p>
+  I'm always on the lookout for opportunities to collaborate and learn!
 </p>
 
 <h3 align="left">Connect with me:</h3>
